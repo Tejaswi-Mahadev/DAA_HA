@@ -7,5 +7,12 @@ An e-commerce platform is implementing a feature where products need to be sorte
 
 1. What are the time and space complexities of the commonly used sorting algorithms (Quick Sort, Merge Sort)?
 
-3. How do the characteristics of the data (e.g., range of prices, product name lengths) impact the choice of sorting algorithm?
+**Quick Sort**
+* Time Complexity:
+    * Best Case : *O(n log n)*
+    * Average Case :  *O(n log n)*
+    * Worst Case : *O(n^2)* (when the pivot selection is poor, e.g., always choosing the smallest or largest element in a      sorted or nearly sorted list)
+
+* Space Complexity: *O(log n)* (in-place, for recursive calls in the call stack)
+
 
