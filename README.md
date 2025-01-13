@@ -50,4 +50,7 @@ Quick Sort often performs better in practice due to good cache locality compared
 Special Cases:
 If the data is nearly sorted, Insertion Sort ( O(n) for nearly sorted data) or Timsort (used in Python and Java, which is a hybrid of Merge Sort and Insertion Sort) may be more efficient.
 
+![image](https://github.com/user-attachments/assets/b9c41222-0c80-419b-8f03-a0ce8295dece)
+
+
 
